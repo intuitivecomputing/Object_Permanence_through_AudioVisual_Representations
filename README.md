@@ -5,4 +5,5 @@ This is the repository accompanying the paper submission Object_Permanence_throu
 Dataset is available at https://intuitivecomputing.jhu.edu/openscience.html
 
 Pretrained weights for combined model is provided in multimodal_pretrained_weights.pkl.
+
 partition.txt provides a dictionary of indices we used for training, validation, and testing.
